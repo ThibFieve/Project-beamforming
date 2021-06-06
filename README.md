@@ -4,6 +4,13 @@
 Beamforming and Tracking with Quadriga libraries using OFDM.Matlab
 Sep 2020 – Dec 2020
 
+
+
+![Capture](https://user-images.githubusercontent.com/17762123/120939698-7f5f6480-c719-11eb-9750-3511e4d8bf5a.PNG)
+![Capture2](https://user-images.githubusercontent.com/17762123/120939700-81292800-c719-11eb-9e81-de69a2c199cb.PNG)
+
+
+
 Project: Beamforming 
 
 Project in the scope of the course of Wireless Communication from Polimi. 
